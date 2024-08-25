@@ -1,0 +1,10 @@
+.reply-btn {
+  background-color: #2448c9;
+  color: #fff;
+  width: 116px;
+  height: 36px;
+  border-width: 0px;
+  border-radius: 5px;
+  padding: 5px;
+  cursor: pointer;
+}

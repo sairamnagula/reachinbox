@@ -1,0 +1,7 @@
+.inbox-title-row {
+  display: flex;
+}
+
+.list-type {
+  list-style-type: none;
+}

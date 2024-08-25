@@ -1,0 +1,54 @@
+* {
+  content: border-box;
+  margin: 0px;
+}
+
+.title {
+  text-align: center;
+}
+
+.footer-title {
+  text-align: center;
+  color: #555557;
+}
+
+.login-bg-container {
+  background-color: black;
+  color: white;
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.login-title {
+  color: white;
+  font-family: "Roboto";
+  font-size: 24px;
+  margin: 10px;
+}
+
+.card {
+  background-color: #222224;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  border-radius: 20px;
+  border: 2px #555557 solid;
+  align-items: center;
+  align-self: center;
+  height: 300px;
+  width: 400px;
+  padding: 10px;
+}
+
+.button {
+  background-color: #2837ad;
+  border-radius: 12px;
+  border-width: 0px;
+  height: 36px;
+  width: 100%;
+  color: white;
+  margin: 10px;
+}
